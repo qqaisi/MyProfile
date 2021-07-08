@@ -1,40 +1,40 @@
-# PROJECT NAME
+# Store Web Application
 
 ## Project Description
 
-Here goes your awesome project description!
+This is a ASP.NET Core MVC project utilizing Entity Framework Core to create a Web Store Application that allows a user to create an account then view orders by user and store location. The user can create an order, view their order history, and view the order history of a store location.
+
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* .Net Core - version 5.07
+* ASP.NET 
+* Entity Framework 
+* C#
+* SQL Server
+* DevOps
 
 ## Features
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Created Functionality for useres to go to particular store and for admin to manupulate the User's data and search the orders by useres  and search orders by store location.
+* Created functionality for users to go to a particular store and make orders for one or more products.
+* Add funtionality for users to see the history of his order.
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Price match feature with other stores.
+* minimum quantity report for each item.
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+https://github.com/qqaisi/MyProfile.git
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
 
-- All the `code` required to get started
-- Images of what it should look like
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+> Got to Create New Account and select your default location store then enjoy shopping by selecting the category and subcategory of the products
+> Choose the prefered product and enter the required QTY and add it to your cart. 
+> Any time you can check your cart and edit your cart before you confirm your order.
 
 ## Contributors
 
