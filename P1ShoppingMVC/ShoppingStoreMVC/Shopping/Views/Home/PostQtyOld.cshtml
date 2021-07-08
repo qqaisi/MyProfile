@@ -1,0 +1,46 @@
+﻿@model Shopping.Models.InvListM
+
+@{
+    ViewData["Title"] = "PostQty";
+}
+
+<h1>PostQty</h1>
+
+<h4>InvListM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="PostQty">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <form asp-action="PostQty">
+                <input type="hidden" asp-for="TItem.ItemId" class="form-control" readonly="@(true) " />
+                <input type="hidden" asp-for="TItem.ItemName" class="form-control" readonly="@(true) " />
+                <input type="hidden" asp-for="TInventory.Qty" class="form-control" readonly="@(true) " />
+                <input type="hidden" asp-for="TInventory.UnitPrice" class="form-control" readonly="@(true) " />
+                <input type="hidden" asp-for="TItem.ItemDesc" class="form-control" readonly="@(true) " />
+                <input type=number asp-for="TInventory.MinQty" class="form-control" />
+
+
+
+
+
+
+
+
+
+
+
+                <td><input type="submit" value="Submit" /></td>
+            </form>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,68 @@
+﻿@model Shopping.Models.User
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<h1>SignUp</h1>
+
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SignUp">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Userid" class="control-label">User Name</label>
+                <input asp-for="Userid" class="form-control" />
+                <span asp-validation-for="Userid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="User_Pwd" class="control-label">Password</label>
+                <input asp-for="User_Pwd" class="form-control" />
+                <span asp-validation-for="User_Pwd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmedUserPwd" class="control-label">Confirm Password</label>
+                <input asp-for="ConfirmedUserPwd" class="form-control" />
+                <span asp-validation-for="ConfirmedUserPwd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ustreet" class="control-label">Street</label>
+                <input asp-for="Ustreet" class="form-control" />
+                <span asp-validation-for="Ustreet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ucity" class="control-label">City</label>
+                <input asp-for="Ucity" class="form-control" />
+                <span asp-validation-for="Ucity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ustate" class="control-label">State</label>
+                <input asp-for="Ustate" class="form-control" />
+                <span asp-validation-for="Ustate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Uzip" class="control-label">ZipCode</label>
+                <input asp-for="Uzip" class="form-control" />
+                <span asp-validation-for="Uzip" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">E-mail</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

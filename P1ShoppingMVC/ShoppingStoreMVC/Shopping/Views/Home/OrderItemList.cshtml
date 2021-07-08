@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DataLibrary.OrderDetails>
+
+@{
+    ViewData["Title"] = "OrderItemList";
+}
+
+<h1>Order Item List</h1>
+
+<p>
+    <a asp-action=""></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <td>Item Name</td>
+            <td>Qty</td>
+            <td>Unite Price</td>
+            <td>Description</td>
+
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.TItem.ItemName</td>
+                <td>@item.TOrder.Qty </td>
+                <td>@item.TOrder.UnitPrice</td>
+                <td>@item.TItem.ItemDesc</td>
+                <td style="visibility:hidden">@item.TItem.ItemId></td>
+                
+
+            </tr>
+        }
+
+
+    </tbody>
+
+</table>

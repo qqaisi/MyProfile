@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Shopping.Models.ItemsCat>
+
+@{
+    ViewData["Title"] = "CatList";
+}
+
+<h3> @ViewBag.storename</h3>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CatId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CatName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CatId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CatName)
+            </td>
+            <td>
+                @Html.ActionLink("Select", "SubCatList", new {  id=item.CatId ,item.CatName })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

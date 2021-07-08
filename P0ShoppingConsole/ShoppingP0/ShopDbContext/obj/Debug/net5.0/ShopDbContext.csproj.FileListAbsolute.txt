@@ -1,0 +1,74 @@
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.genruntimeconfig.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 - Copy\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.genruntimeconfig.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.genruntimeconfig.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Test\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.genruntimeconfig.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.deps.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\bin\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ref\ShopDbContext.dll
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.pdb
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P0Final\ShoppingP0\ShopDbContext\obj\Debug\net5.0\ShopDbContext.genruntimeconfig.cache

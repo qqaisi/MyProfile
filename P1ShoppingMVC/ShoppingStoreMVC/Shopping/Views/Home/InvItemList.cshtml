@@ -1,0 +1,46 @@
+﻿@model IEnumerable<DataLibrary.InvListM>
+@{
+    ViewData["Title"] = "InvItemList";
+}
+
+<h1>InvItemList</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Item Id</td>
+            <td>Available Qty</td>
+            <td>Unite Price</td>
+            <td>Description</td>
+
+        </tr>
+    </thead>
+    <tbody>
+        
+            @foreach (var item in Model)
+            {
+
+
+                <tr>
+
+                    <td>@item.TItem.ItemName</td>
+                    <td>@item.TInventory.Qty </td>
+                    <td>@item.TInventory.UnitPrice</td>
+                    <td>@item.TItem.ItemDesc</td>
+                    <td style="visibility:hidden">@item.TItem.ItemId></td>
+                    <td> @Html.ActionLink("Select", "PostQty", "Home", new { item_id = @item.TItem.ItemId, UnitePrice = @item.TInventory.UnitPrice, Qty = @item.TInventory.Qty, minQty = @item.TInventory.MinQty, ItemName = @item.TItem.ItemName })</td>
+                    
+                </tr>
+            }
+
+            
+    </tbody>
+    
+</table>
+
+<!--    <input type="submit" value="OrderItemVerify" class="btn btn-primary"
+    <!--                <input id=demoInput type=number min=0 max=>-->
+<!--
+
+
+-->

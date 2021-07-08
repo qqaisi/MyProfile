@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Shopping.Models.StoresName>
+
+@{
+    ViewData["Title"] = "StoresDataList";
+}
+
+<h1>Stores List</h1>
+
+<p>
+    <!-- <a asp-action="Create">Create New</a>-->
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Store Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StoreName)
+                </td>
+                <td>
+                    @Html.ActionLink("Select", "Reports", new { id = item.StoreNameId, item.StoreName })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

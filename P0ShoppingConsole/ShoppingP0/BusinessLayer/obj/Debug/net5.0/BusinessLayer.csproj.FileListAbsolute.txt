@@ -1,0 +1,5 @@
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\06012021_batchfiles\Qais.QaisiP0\P-0 -final\ShoppingP0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache

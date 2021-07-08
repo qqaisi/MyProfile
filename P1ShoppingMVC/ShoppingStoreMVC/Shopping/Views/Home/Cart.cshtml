@@ -1,0 +1,78 @@
+﻿@model IEnumerable<DataLibrary.Tcart>
+
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<h1>Cart</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Item Name
+            </th>
+            <th>
+                Qty
+            </th>
+            <th>
+                Unit Price
+            </th>
+            <th>
+                SubTotal
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Itemname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Minqty)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Unitprice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Subtot)
+                </td>
+
+
+
+
+                <td style="display:none">
+                    @Html.DisplayFor(modelItem => item.Itemid)
+                </td>
+                <td style="display:none">
+                    @Html.DisplayFor(modelItem => item.Qty)
+                </td>
+                <td style="display:none">
+                    @Html.DisplayFor(modelItem => item.Userpk)
+                </td>
+
+
+                <td>
+                    @Html.ActionLink("Delete", "DeleteFromCart", new { id = item.Itemid })
+                </td>
+            </tr>
+        }ss
+    </tbody>
+    @foreach (var item in Model.Reverse().Take(1))
+    {
+        <tr>
+            <td><h3>Total</h3></td>
+            <td><h3>@Html.DisplayFor(modelItem => item.Total)</h3></td>
+
+        </tr>
+    }
+
+<h3>@Html.ActionLink("Confirm Order", "ConfirmCart", new {})</h3>
+
+</table>

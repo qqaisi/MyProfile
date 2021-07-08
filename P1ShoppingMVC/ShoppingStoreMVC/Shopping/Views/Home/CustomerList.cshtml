@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Shopping.Models.User>
+
+@{
+    ViewData["Title"] = "CustomerList";
+}
+
+<h1>CustomerList</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+            Customer Name
+            </th>
+            <th>
+                Street
+            </th>
+            <th>
+                City
+            </th>
+            <th>
+               State
+            </th>
+            <th>
+                Zip
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Userid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ustreet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ucity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ustate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Uzip)
+            </td>
+           
+
+            <td>
+
+                @Html.ActionLink("Select", "DisplayHistoryReport", new {id= item.UserPk })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

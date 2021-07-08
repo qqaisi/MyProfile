@@ -1,0 +1,30 @@
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.deps.json
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\ref\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.pdb
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\ref\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.pdb
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.genruntimeconfig.cache
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.deps.json
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.json
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.dev.json
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\ref\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\bin\Debug\net5.0\DataLibrary.pdb
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfo.cs
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\ref\DataLibrary.dll
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.pdb
+C:\Users\QQais\OneDrive\Desktop\ShoppingMVC updated\ShoppingStoreMVC\DataLibrary\obj\Debug\net5.0\DataLibrary.genruntimeconfig.cache

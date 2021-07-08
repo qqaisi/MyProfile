@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Shopping.Models.StoreBranch>
+
+
+@{
+    ViewData["Title"] = "StoreBranchesList";
+}
+
+<h1> @ViewBag.storename</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StoreStreet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StoreCity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StoreState)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StoreZipcode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StorePhone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StoreStreet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StoreCity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StoreState)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StoreZipcode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StorePhone)
+                </td>
+                <td>
+                    @Html.ActionLink("Select", "SignUp", new { id = item.StoreBranchId, street = item.StoreStreet, city = item.StoreCity, state = item.StoreState, zip = item.StoreZipcode/* id=item.PrimaryKey */ })
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
